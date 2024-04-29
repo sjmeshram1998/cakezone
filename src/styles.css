@@ -1,1 +1,51 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+body {
+  font-family: "Oswald", sans-serif !important;
+ 
+  
+}
+.sub-heading-orange {
+  color: #E88F2A;
+  font-family: "Pacifico", cursive;
+  font-size: 35px;
+  font-weight: 600;
+}
+.margin-space{
+  margin-top: 4rem;
+}
+.main-heading {
+  font-size: 60px;
+  font-weight: 700;
+  text-align: center;
+  
+}
+
+.pt {
+  padding-top: 6rem;
+}
+
+.contact-bg {
+  background-image: url('src/assets/images/footer.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+}
+
+
+.page-heading {
+  font-size: 55px;
+  text-align: center;
+  color: white;
+  padding-top: 40px;
+}
+
+@media screen and (max-width: 992px) {
+  .main-heading {
+    font-size: 40px;
+   
+  }
+}

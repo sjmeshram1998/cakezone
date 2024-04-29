@@ -1,0 +1,43 @@
+.wrapper {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.icons {
+    font-size: 40px;
+    color: #E88F2A;
+}
+p {
+    color: #656565;
+}
+.bg {
+    background-color: #E88F2A;
+    padding: 10px 30px 10px 30px ;
+}
+.navbar {
+    background-color: #2B2825 !important;
+    padding: 20px 0 20px 0;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link{
+    color: #FFFFFF !important;
+}
+.navbar-toggler {
+    
+    background-color: #f8f9fa !important;
+}
+.logo-visible {
+    display: none;
+}
+ 
+
+@media screen and (max-width:992px) {
+    .visible {
+        display: none;
+        }
+        .logo-visible {
+            display: block;
+        }
+      
+}

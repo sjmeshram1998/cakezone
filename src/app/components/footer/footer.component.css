@@ -1,0 +1,60 @@
+.footer-bg {
+    background-image: url('src/assets/images/footer.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 67vh;
+    background-size: cover;
+}
+.wrapper {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-wrap: wrap;
+   
+
+}
+
+.card {
+    background-color: #E88F2A;
+    border-radius: 0;
+    padding: 20px;
+    margin-top: -9rem;
+    width: 300px;
+}
+h4 {
+    color: #E88F2A;
+}
+.icon {
+    color: #E88F2A;
+    width: 30px;
+}
+ input {
+  height: 35px;
+ }
+.search {
+    background-color: #E88F2A;
+    color: #FFFFFF;
+}
+
+.flex-wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+input {
+height: 50px;
+}
+.btn {
+    background-color: #E88F2A;
+    border-radius: 0;
+    padding: 10px;
+}
+ @media screen and (max-width: 992px) {
+    .footer-bg {
+       
+        height: auto;
+    
+    }
+    
+ }

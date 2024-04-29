@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.background-img {
+    background-image: url('src/assets/images/img1.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    /* filter: brightness(0.5); */
+    /* opacity: 0.9; */
+}
+
+.cakezone {
+    color: #FFFFFF;
+    font-size: 70px;
+    font-weight: 700;
+}
+ p {
+    font-size: 40px;
+    color: #FFFFFF;
+    font-weight: 700;
+ }
+ .heading {
+    margin-left: 30px;
+    padding-top: 7rem;
+ }
+ .btn {
+    background-color: #E88F2A; 
+    color: #FFFFFF;
+    padding: 15px;
+    border-radius: 0;
+    width: 15%;
+ }
+
+ @media screen and (max-width: 768px) {
+   .background-img {
+     
+      height: auto;
+      
+  }
+  .cakezone {
+   font-size: 40px;
+   
+  }
+  .btn {
+   width: auto;
+}
+  
+ }

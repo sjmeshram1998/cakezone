@@ -1,0 +1,56 @@
+{
+    "posts": [
+    { "id": "1", "name": "BIRTHDAY CAKE",
+     "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo" ,"price":"$99.0",
+     "img": "./assets/images/cake-1.jpg"
+    },
+    { "id": "2", "name": "BIRTHDAY CAKE",
+     "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo","price":"$99.0",
+    "img": "./assets/images/cake-1.jpg" 
+    },
+    { "id": "3", "name": "BIRTHDAY CAKE",
+     "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo","price":"$99.0",
+    "img": "./assets/images/cake-1.jpg"
+    },
+    { "id": "4", "name": "BIRTHDAY CAKE",
+     "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo","price":"$99.0",
+    "img": "./assets/images/cake-1.jpg"
+    },
+    { "id": "5", "name": "BIRTHDAY CAKE",
+     "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo","price":"$99.0",
+    "img": "./assets/images/cake-1.jpg"
+    },
+    { "id": "6", "name": "BIRTHDAY CAKE",
+     "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo","price":"$99.0",
+    "img": "./assets/images/cake-1.jpg"
+    }
+    ],
+    
+    "wedding": [
+        { "id": "1", "name": "BIRTHDAY CAKE",
+         "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo" ,"price":"$99.0",
+         "img": "./assets/images/cake-1.jpg"
+        },
+        { "id": "2", "name": "BIRTHDAY CAKE",
+         "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo","price":"$99.0",
+        "img": "./assets/images/cake-1.jpg" 
+        },
+        { "id": "3", "name": "BIRTHDAY CAKE",
+         "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo","price":"$99.0",
+        "img": "./assets/images/cake-1.jpg"
+        },
+        { "id": "4", "name": "BIRTHDAY CAKE",
+         "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo","price":"$99.0",
+        "img": "./assets/images/cake-1.jpg"
+        },
+        { "id": "5", "name": "BIRTHDAY CAKE",
+         "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo","price":"$99.0",
+        "img": "./assets/images/cake-1.jpg"
+        },
+        { "id": "6", "name": "BIRTHDAY CAKE",
+         "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo","price":"$99.0",
+        "img": "./assets/images/cake-1.jpg"
+        }
+        ]
+
+}

@@ -1,0 +1,40 @@
+<div class="container-fluid margin-space">
+    <div class="container">
+        <h5 class="sub-heading-orange text-center">Menu & Pricing
+        </h5>
+        <h1 class="main-heading">EXPLORE OUR CAKES
+        </h1><br>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6 sub-nav" align="center">
+           <br>
+                <ul>
+                    <li><a>BIRTHDAY</a></li>
+                    <li><a>WEDDING</a></li>
+                    <li><a>CUSTOM</a></li>
+                </ul>
+            </div>
+        
+        <div class="col-md-3"></div>
+      </div>
+    </div>
+</div>
+<br><br>
+<div class="container wrapperCard">
+  <div class="card mb-3" style="max-width: 540px;" *ngFor="let item of listData let i = index;">
+    <div class="row g-0">
+      <div class="col-md-3">
+        <img [src]=item.img class="img-fluid" alt="...">
+       <div class="span-price"> <span>{{item.price}}</span></div>
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <h5 class="card-title">{{item.name}}</h5>
+          <p class="card-text">{{item.description}}</p>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br><br>

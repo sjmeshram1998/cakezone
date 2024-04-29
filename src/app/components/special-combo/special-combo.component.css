@@ -1,0 +1,32 @@
+.combo-bg {
+    background-image: url('src/assets/images/img2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    background-attachment: fixed;
+    filter: brightness(50%);
+    /* opacity: 0.9; */
+}
+
+  .shop {
+    background-color: #E88F2A;
+    color: #FFFFFF;
+    border-radius: 0;
+    padding: 10px 40px 10px 40px;
+    
+  }
+  .read {
+    color: #FFFFFF;
+    background-color: #00000052;
+    border-radius: 0;
+    padding: 10px 40px 10px 40px;
+  }
+
+  @media screen and (max-width: 768px) {
+    .combo-bg {
+        
+        height: auto;
+       
+    }
+  }
