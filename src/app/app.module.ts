@@ -12,6 +12,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { HomeComponent } from './components/home/home.component';
 import { HttpClientModule} from '@angular/common/http';
+import { TeamMembersComponent } from './components/team-members/team-members.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -22,7 +23,8 @@ import { HttpClientModule} from '@angular/common/http';
     SpecialComboComponent,
     FooterComponent,
     ContactComponent,
-    HomeComponent
+    HomeComponent,
+    TeamMembersComponent
   ],
   imports: [
     BrowserModule,

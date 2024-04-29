@@ -51,6 +51,26 @@
          "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo","price":"$99.0",
         "img": "./assets/images/cake-1.jpg"
         }
+        ],
+        "team-members":[
+            {
+                "id": "1",
+                "img": "./assets/images/team1.jpg",
+                "name": "FULL NAME",
+                "description": "designation"
+            },
+            {
+                "id": "2",
+                "img": "./assets/images/team2.jpg",
+                "name": "FULL NAME",
+                "description": "designation"
+            },
+            {
+                "id": "3",
+                "img": "./assets/images/team3.jpg",
+                "name": "FULL NAME",
+                "description": "designation"
+            }
         ]
 
 }

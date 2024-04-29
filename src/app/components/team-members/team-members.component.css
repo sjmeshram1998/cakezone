@@ -1,0 +1,23 @@
+.card {
+        width: 330px;
+        margin-bottom: 30px;
+        border-radius: 0;
+}
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   
+
+}
+.card-body {
+    background-color: #2B2825;
+   
+}
+.card-name {
+    color: #E88F2A !important;
+    font-weight: 700;
+}
+img {
+    margin-bottom: -10px;
+}
