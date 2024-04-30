@@ -71,6 +71,30 @@
                 "name": "FULL NAME",
                 "description": "designation"
             }
+        ],
+        "testimonials":[
+            {
+                "id": "1",
+                "img": "./assets/images/testimonials1.jpg",
+                "name": "FULL NAME",
+                "designation": "designation",
+                "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo"
+            },
+            {
+                "id": "2",
+                "img": "./assets/images/testimonials2.jpg",
+                "name": "FULL NAME",
+                "designation": "designation",
+                "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo"
+            },
+            {
+                "id": "3",
+                "img": "./assets/images/testimonials3.jpg",
+                "name": "FULL NAME",
+                "designation": "designation",
+                "description": "Ipsum ipsum clita erat amet dolor sit justo sea eirmod diam stet sit justo"
+            }
         ]
+
 
 }

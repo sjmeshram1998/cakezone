@@ -1,0 +1,39 @@
+
+  .shop {
+    background-color: #E88F2A;
+    color: #FFFFFF;
+    border-radius: 0;
+    padding: 10px 40px 10px 40px;
+    
+  }
+  .card-wrap {
+    display: flex;
+    /* background-color: #E88F2A; */
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    
+  }
+.card2 {
+    background-color: #E88F2A;
+    
+    padding: 20px;
+    text-align: center;
+    margin: 20px 12px;
+    width: 340px;
+    
+
+}
+.combo-bg {
+    background-image: url('src/assets/images/img2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    background-attachment: fixed;
+    /* filter: brightness(50%); */
+    /* opacity: 0.9; */
+}
+.mt-container {
+    margin-bottom: -170px;
+}

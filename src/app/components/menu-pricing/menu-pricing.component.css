@@ -111,4 +111,18 @@ span {
     .mt-container {
         margin-bottom: 10px;
     }
+  
+  }
+
+  @media screen and (max-width: 992px) {
+    .card-wrap {
+      
+        justify-content: center;
+        
+      }
+    .wrapperCard {
+       
+        justify-content: center;
+        
+    }
   }

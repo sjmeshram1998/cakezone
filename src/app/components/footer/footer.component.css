@@ -2,15 +2,14 @@
     background-image: url('src/assets/images/footer.jpg');
     background-position: center;
     background-repeat: no-repeat;
-    height: 67vh;
+    height: 80vh;
     background-size: cover;
 }
 .wrapper {
     display: flex;
-    /* justify-content: center; */
-    align-items: center;
+    justify-content: space-between;
     flex-wrap: wrap;
-   
+    
 
 }
 
@@ -18,7 +17,9 @@
     background-color: #E88F2A;
     border-radius: 0;
     padding: 20px;
-    margin-top: -9rem;
+    margin-bottom: 20px;
+    
+    /* margin-top: -9rem; */
     width: 300px;
 }
 h4 {
@@ -36,12 +37,7 @@ h4 {
     color: #FFFFFF;
 }
 
-.flex-wrapper{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
 
-}
 input {
 height: 50px;
 }

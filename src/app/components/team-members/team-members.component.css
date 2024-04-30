@@ -2,6 +2,7 @@
         width: 330px;
         margin-bottom: 30px;
         border-radius: 0;
+        transition: transform 0.3s ease-in-out;
 }
 .wrapper {
     display: flex;
@@ -20,4 +21,19 @@
 }
 img {
     margin-bottom: -10px;
+   
+}
+.card:hover {
+    transform: scale(1.1);
+}
+img:hover {
+opacity: 0.5;
+}
+@media screen and (max-width: 768px) {
+    .wrapper {
+       
+        justify-content: center;
+        flex-wrap: wrap;
+    
+    }
 }

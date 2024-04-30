@@ -2,8 +2,15 @@
     background-color: #E88F2A;
     width: 350px;
     border-radius: 0;
+    margin-bottom: 20px;
+    
 }
 .icon {
     font-size: 45px;
     color: #FFFFFF;
+}
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }

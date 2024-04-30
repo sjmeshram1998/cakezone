@@ -13,6 +13,8 @@ import { ContactComponent } from './components/contact/contact.component';
 import { HomeComponent } from './components/home/home.component';
 import { HttpClientModule} from '@angular/common/http';
 import { TeamMembersComponent } from './components/team-members/team-members.component';
+import { TestimonialsComponent } from './components/testimonials/testimonials.component';
+import { OurServicesComponent } from './components/our-services/our-services.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -24,7 +26,9 @@ import { TeamMembersComponent } from './components/team-members/team-members.com
     FooterComponent,
     ContactComponent,
     HomeComponent,
-    TeamMembersComponent
+    TeamMembersComponent,
+    TestimonialsComponent,
+    OurServicesComponent
   ],
   imports: [
     BrowserModule,
